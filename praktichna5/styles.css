@@ -15,8 +15,17 @@
   float: right;
   display: block;
  border: 2px solid black;
- background-color:#B0E0E6; 
-    color:#696969;
+ color:black
+}
+.с1{  
+    background-color:#CD5C5C;
+}
+.с2{  
+    background-color:#B22222;
+}
+.с3{  
+   background-color:#FAD9D5;
+}  
 }
 .conteiner{
     background-color:#7FFFD4;
