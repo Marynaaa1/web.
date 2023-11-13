@@ -7,7 +7,7 @@
    width: 100%;
 }  
 .main_text{
-  font-size:40px;
+  font-size:50px;
   text-align: center;
   margin-bottom: 22px;
 }
@@ -36,7 +36,7 @@
     border: 2px solid black;
 }  
 .conteiner p{
-  padding: 15px;
+  padding: 20px;
 }
 
 @media (min-width: 992px) {
