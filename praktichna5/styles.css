@@ -16,13 +16,15 @@
   float: right;
   display: block;
  border: 2px solid black;
- color:black
+  color:black;
 }
 .c1{  
     background-color:#CD5C5C;
+ 
 }
 .c2{  
     background-color:#B22222;
+ 
 }
 .c3{  
    background-color:#FAD9D5;
