@@ -17,10 +17,10 @@
   display: block;
 }
 .c1{  
-    background-color:#66CDAA; 
+    background-color:blue; 
     color:yellow;
 }
-.с2{  
+.c2{  
     background-color:black;
    color:yellow;
 }
@@ -127,7 +127,6 @@ width: 100%;
 }
 }
 @media (max-width: 768px) {
-  /* ... other styles ... */
   .col-md-12 {
     width: 100%;
   }
