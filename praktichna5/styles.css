@@ -37,7 +37,7 @@
   padding: 20px;
 }
 
-@media (min-width: 992px) {
+@media (min-width: 1200px) {
 .col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8,
 .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12 {
 float: left;
@@ -81,7 +81,7 @@ width: 91.66%;
 width: 100%;
 }
 }
-@media screen and (min-width: 768px) and (max-width: 992px) {
+@media screen and (min-width: 992px) and (max-width: 1199px) {
     section {
         width: calc(50% - 20px);
         float: left;
