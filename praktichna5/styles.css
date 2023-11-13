@@ -28,14 +28,14 @@
    background-color:green;
   color:yellow;
 }  
-.block{
+.conteiner{
     background-color:red;
     margin-left:18px;
     margin-right:18px;
     margin-bottom:10px;
     border: 2px solid black;
 }  
-.block p{
+.conteiner p{
   padding: 15px;
 }
 
