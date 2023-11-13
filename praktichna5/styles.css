@@ -12,18 +12,19 @@
   margin-bottom: 22px;
 }
 .c1, .c2, .c3{
+ background-color:#AFEEEE
   float: right;
   display: block;
  border: 2px solid black;
  color:black
 }
-.с1{  
+.c1{  
     background-color:#CD5C5C;
 }
-.с2{  
+.c2{  
     background-color:#B22222;
 }
-.с3{  
+.c3{  
    background-color:#FAD9D5;
 }  
 }
