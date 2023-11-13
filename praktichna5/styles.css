@@ -17,19 +17,19 @@
   display: block;
 }
 .c1{  
-    background-color:blue; 
+    background-color:#B0E0E6; 
     color:yellow;
 }
 .c2{  
-    background-color:black;
+    background-color:#AFEEEE;
    color:yellow;
 }
 .c3{  
-   background-color:green;
+   background-color:#ADD8E6;
   color:yellow;
 }  
 .conteiner{
-    background-color:red;
+    background-color:#FFB6C1;
     margin-left:18px;
     margin-right:18px;
     margin-bottom:10px;
