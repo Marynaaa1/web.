@@ -1,0 +1,42 @@
+
+    .button {
+      display: inline-block;
+      padding: 10px 20px;
+      background-color: #36d247;
+      color: #FFFFFF;
+      border: 2px solid rgba(54, 210, 71, 0);
+      border-radius: 5px;
+      text-align: center;
+      text-decoration: none;
+      cursor: pointer;
+      margin-left: 15px;
+    }
+
+    .button:first-child {
+      margin-left: 0;
+    }
+
+    .button:hover {
+      background-color: rgba(0, 255, 239, 0.80);
+      color: #000000;
+    }
+
+    .button:active {
+      background-color: #FFFF00;
+    }
+
+    .section-text {
+      padding: 10px;
+    }
+
+    .section-text:nth-child(odd) {
+      background-color: #E0E0E0;
+      color: #000000;
+    }
+
+    .section-text:nth-child(even) {
+      background-color: #F0F0F0;
+      color: #000000;
+    }
+ 
+
