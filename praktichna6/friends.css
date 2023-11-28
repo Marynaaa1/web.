@@ -75,26 +75,25 @@ h1{
 
 }
 
-@media (max-width: 768px) {
-    .col-sm-12 {
-        width: 100%;
-    }
-}
-
-@media (min-width: 769px) and (max-width: 992px) {
-    .col-md-6 {
-        width: 50%;
-    }
-
-    .col-md-12 {
-        width: 100%;
-    }
-}
-
 @media (min-width: 993px) {
-    .col-lg-4
-    {
-        width: 33%;
+    th {
+        font-size: 130%;
+    }
+    td {
+        font-size: 120%;
     }
 
+}
+@media (min-width: 769px) and (max-width: 992px) {
+    th {
+        font-size: 120%;
+    }
+    td {
+        font-size: 110%;
+    }
+}
+@media (max-width: 768px) {
+    th {
+        font-size: 110%;
+    }
 }
