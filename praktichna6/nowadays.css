@@ -1,20 +1,42 @@
-ul>li:nth-child(odd){
-    background-color:gray;
-    color:rgb(0, 0, 0);
-    }
-        ul>li:nth-child(even){
-    background-color:white;
-    color:rgb(255,255,255);
-    }
+ .style1 {
+            text-align:center; 
+            font-size: 24px;
+        }
+        .style2 {
+            font-size: 120%;
+        }
+
+        a#biography-link:link {
+            color: #FF5733;
+        }
+
+        a#biography-link:visited {
+            color: #33FF57;
+        }
 
 
-        
-        ol > li:nth-child(4){
-            background-color:red;
+        a#nowadays-link:link {
+            color: #5733FF;
         }
-        ol > li:hover:nth-child(3){
-            cursor:pointer;
+
+        a#nowadays-link:visited {
+            color: #FFB533;
         }
-        ol > li:hover:nth-child(5){
-            cursor:pointer;
-            
+
+
+        a#friends-link:link {
+            color: #33B5FF;
+        }
+
+        a#friends-link:visited {
+            color: #B533FF;
+        }
+
+
+        a#gallery-link:link {
+            color: #FF33A1;
+        }
+
+        a#gallery-link:visited {
+            color: #A133FF;
+        }
