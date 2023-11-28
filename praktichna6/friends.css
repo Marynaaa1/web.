@@ -68,12 +68,7 @@ h1{
     tr:nth-child(odd) {
         background-color: #E0E0E0;
         color: #000000;
-    }
-.container {
-    display: flex;
-    flex-wrap: wrap;
-
-}
+   
 
 @media (min-width: 993px) {
     th {
