@@ -1,41 +1,45 @@
+.style1 {
+            text-align:center; 
+            font-size: 24px;
+        }
+        .style2 {
+            font-size: 120%;
+        }
 
-    .button {
-      display: inline-block;
-      padding: 10px 20px;
-      background-color: #36d247;
-      color: #FFFFFF;
-      border: 2px solid rgba(54, 210, 71, 0);
-      border-radius: 5px;
-      text-align: center;
-      text-decoration: none;
-      cursor: pointer;
-      margin-left: 15px;
-    }
+        a#biography-link:link {
+            color: #FF5733;
+        }
 
-    .button:first-child {
-      margin-left: 0;
-    }
+        a#biography-link:visited {
+            color: #33FF57;
+        }
 
-    .button:hover {
-      background-color: rgba(0, 255, 239, 0.80);
-      color: #000000;
-    }
 
-    .button:active {
-      background-color: #FFFF00;
-    }
+        a#nowadays-link:link {
+            color: #5733FF;
+        }
 
-    .section-text {
-      padding: 10px;
-    }
+        a#nowadays-link:visited {
+            color: #FFB533;
+        }
 
-    .section-text:nth-child(odd) {
-      background-color: #E0E0E0;
-      color: #000000;
-    }
 
-    .section-text:nth-child(even) {
-      background-color: #F0F0F0;
+        a#friends-link:link {
+            color: #33B5FF;
+        }
+
+        a#friends-link:visited {
+            color: #B533FF;
+        }
+
+
+        a#gallery-link:link {
+            color: #FF33A1;
+        }
+
+        a#gallery-link:visited {
+            color: #A133FF;
+        }
       color: #000000;
     }
  
