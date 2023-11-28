@@ -47,3 +47,32 @@ h1{
         background-color: #E0E0E0;
         color: #000000;
     }
+.container {
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+@media (max-width: 768px) {
+    .col-sm-12 {
+        width: 100%;
+    }
+}
+
+@media (min-width: 769px) and (max-width: 992px) {
+    .col-md-6 {
+        width: 50%;
+    }
+
+    .col-md-12 {
+        width: 100%;
+    }
+}
+
+@media (min-width: 993px) {
+    .col-lg-4
+    {
+        width: 33%;
+    }
+
+}
