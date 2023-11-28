@@ -1,42 +1,27 @@
- .style1 {
-            text-align:center; 
-            font-size: 24px;
+ h1{
+            text-align:center;
+            font-size:22px;
         }
-        .style2 {
-            font-size: 120%;
+        .style6{
+            font-style: italic;
         }
-
-        a#biography-link:link {
-            color: #FF5733;
+        h2{
+            text-align:center;
         }
+            
+        
+ul > li:nth-child(even){
+background-color: gray;
+color: rgb(0, 0, 0);
+}
 
-        a#biography-link:visited {
-            color: #33FF57;
-        }
-
-
-        a#nowadays-link:link {
-            color: #5733FF;
-        }
-
-        a#nowadays-link:visited {
-            color: #FFB533;
-        }
-
-
-        a#friends-link:link {
-            color: #33B5FF;
-        }
-
-        a#friends-link:visited {
-            color: #B533FF;
-        }
-
-
-        a#gallery-link:link {
-            color: #FF33A1;
-        }
-
-        a#gallery-link:visited {
-            color: #A133FF;
-        }
+ol > li:nth-child(4){
+    background-color: aqua;
+}
+ol > li:hover:nth-child(3){
+    
+    cursor: pointer;
+}ol > li:hover:nth-child(5){
+    
+    cursor: pointer;
+}
