@@ -13,5 +13,10 @@
 h4{
   background-color:#BC8F8F;
   width:150px;
+  position:absolute;
+  left: 0;
+  bottom: 0;
 }
+.block1, .block2, .block3, .block4{
+  position:relative;}
 
